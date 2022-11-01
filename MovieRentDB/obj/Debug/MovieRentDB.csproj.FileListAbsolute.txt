@@ -1,0 +1,12 @@
+E:\C#\MovieRentDB\obj\Debug\MovieRentDB.csproj.AssemblyReference.cache
+E:\C#\MovieRentDB\obj\Debug\MovieRentDB.csproj.CoreCompileInputs.cache
+E:\C#\MovieRentDB\bin\Debug\MovieRentDB.dll.config
+E:\C#\MovieRentDB\bin\Debug\MovieRentDB.dll
+E:\C#\MovieRentDB\bin\Debug\MovieRentDB.pdb
+E:\C#\MovieRentDB\bin\Debug\EntityFramework.dll
+E:\C#\MovieRentDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\MovieRentDB\bin\Debug\EntityFramework.xml
+E:\C#\MovieRentDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\MovieRentDB\obj\Debug\MovieRentDB.csproj.CopyComplete
+E:\C#\MovieRentDB\obj\Debug\MovieRentDB.dll
+E:\C#\MovieRentDB\obj\Debug\MovieRentDB.pdb
